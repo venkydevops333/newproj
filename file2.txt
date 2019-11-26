@@ -1,1 +1,2 @@
 Hi to the file2
+new line adding 2
